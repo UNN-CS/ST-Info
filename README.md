@@ -129,7 +129,7 @@
 |№   |  ФИО   | ST-1(pr) | ST-1(check) | ST-1(tests) | ST-1(pass) | ST-1(ИТОГ) | ST-2(pr) | ST-2(check) | ST-2(tests) | ST-2(pass) | 
 | -- | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 1 | Белов А.А. | 50 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> |  | |  | | 
-| 2 | Васильев С.А. | 53 | <img src="img/s.png" width="20"> | 4 | 4 |  | |  | | 
+| 2 | Васильев С.А. | 53 | <img src="img/s.png" width="20"> | 4 | 4 | <img src="img/f.png" width="20"> |  | |  | | 
 | 3 | Ведерникова К.А. | 17 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 15 | <img src="img/f.png" width="20"> |  | | 
 | 4 | Вершинина А.В. |  | |  | |  | |  | |  | | 
 | 5 | Ворошилов В.А. | 26 | <img src="img/s.png" width="20"> | 27 | 27 | <img src="img/s.png" width="20"> |  | |  | | 
@@ -144,7 +144,7 @@
 | 14 | Корнеева Е.М. | 47 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> |  | |  | | 
 | 15 | Кошкин М.В. | 49 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> |  | |  | | 
 | 16 | Крылов М.Г. |  | |  | |  | |  | |  | | 
-| 17 | Милованкин М.С. | 41 | <img src="img/s.png" width="20"> | 8 | 8 |  | |  | | 
+| 17 | Милованкин М.С. | 41 | <img src="img/s.png" width="20"> | 8 | 8 | <img src="img/f.png" width="20"> |  | |  | | 
 | 18 | Моисеев А.В. | 27 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 14 | <img src="img/f.png" width="20"> |  | | 
 | 19 | Морозов Е.А. |  | |  | |  | |  | |  | | 
 | 20 | Николаев Р.А. | 4 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> |  | |  | | 
