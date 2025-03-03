@@ -121,7 +121,7 @@
 ## Проверки
 
 
-Дата/время проверки: 2025-03-03 18:25
+Дата/время проверки: 2025-03-03 21:25
 
 
 ### 3822Б1ПР1
@@ -133,7 +133,7 @@
 | 3 | Ведерникова К.А. | 17 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 15 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 4 | Вершинина А.В. |  | |  | |  | |  | |  | |  | | 
 | 5 | Ворошилов В.А. | 26 | <img src="img/s.png" width="20"> | 27 | 27 | <img src="img/s.png" width="20"> |  | |  | |  | | 
-| 6 | Гнитиенко К.Ю. |  | |  | |  | |  | |  | |  | | 
+| 6 | Гнитиенко К.Ю. | 12 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 5 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 7 | Ермилова Д.С. | 42 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/s.png" width="20"> |  | |  | |  | | 
 | 8 | Ефимов А.А. |  | |  | |  | |  | |  | |  | | 
 | 9 | Зайцев А.Д. | 57 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> |  | |  | |  | | 
@@ -201,7 +201,7 @@
 | 1 | Бурыкин М.И. | 6 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 13 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 2 | Вяльдин Н.М. |  | |  | |  | |  | |  | |  | | 
 | 3 | Громов А.С. | 14 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> |  | |  | |  | | 
-| 4 | Дурыничев Д.А. |  | |  | |  | |  | |  | |  | | 
+| 4 | Дурыничев Д.А. | 10 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> |  | |  | |  | | 
 | 5 | Казунин Н.А. | 45 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 17 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | 
 | 6 | Козел С.А. |  | |  | |  | |  | |  | |  | | 
 | 7 | Коновалов С.А. |  | |  | |  | |  | |  | |  | | 
@@ -237,7 +237,7 @@
 | 13 | Мироян Ю.А. |  | |  | |  | |  | |  | |  | | 
 | 14 | Мурадов К.Р.о. | 48 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> |  | |  | |  | | 
 | 15 | Прохоров Н.Е. |  | |  | |  | |  | |  | |  | | 
-| 16 | Салаев В.О. | 63 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/s.png" width="20"> | 19 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 16 | Салаев В.О. | 63 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/s.png" width="20"> | 19 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 17 | Скотин А.С. |  | |  | |  | |  | |  | |  | | 
 | 18 | Трубин А.С. |  | |  | |  | |  | |  | |  | | 
 | 19 | Фомин В.М. |  | |  | |  | |  | |  | |  | | 
