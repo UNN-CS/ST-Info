@@ -128,7 +128,7 @@
 
 |№   |  ФИО   | ST-1(pr) | ST-1(check) | ST-1(tests) | ST-1(pass) | ST-1(ИТОГ) | ST-2(pr) | ST-2(check) | ST-2(tests) | ST-2(pass) | ST-2(ИТОГ) | 
 | -- | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 1 | Белов А.А. | 50 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 21 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 1 | Белов А.А. | 50 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 21 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
 | 2 | Васильев С.А. | 53 | <img src="img/s.png" width="20"> | 4 | 4 | <img src="img/f.png" width="20"> |  | |  | |  | | 
 | 3 | Ведерникова К.А. | 17 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 15 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/f.png" width="20"> | 
 | 4 | Вершинина А.В. |  | |  | |  | |  | |  | |  | | 
@@ -146,7 +146,7 @@
 | 16 | Крылов М.Г. |  | |  | |  | |  | |  | |  | | 
 | 17 | Милованкин М.С. | 41 | <img src="img/s.png" width="20"> | 8 | 8 | <img src="img/f.png" width="20"> |  | |  | |  | | 
 | 18 | Моисеев А.В. | 27 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 14 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
-| 19 | Морозов Е.А. | 37 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 40 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 19 | Морозов Е.А. | 37 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 40 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 20 | Николаев Р.А. | 4 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 28 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 21 | Одинцов М.В. | 1 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 27 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | 
 | 22 | Поликанов В.А. | 64 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> |  | |  | |  | | 
@@ -154,8 +154,8 @@
 | 24 | Садиков И.Ю. | 21 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 1 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 25 | Сидорина П.А. | 38 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> |  | |  | |  | | 
 | 26 | Сорочкин Д.О. | 51 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> |  | |  | |  | | 
-| 27 | Тюрин М.Д. | 30 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 39 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
-| 28 | Хасаньянов К.В. | 43 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 32 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 27 | Тюрин М.Д. | 30 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 39 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
+| 28 | Хасаньянов К.В. | 43 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 32 | <img src="img/s.png" width="20"> | 19 | 19 | <img src="img/f.png" width="20"> | 
 | 29 | Шведова В.А. | 28 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 18 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
 
 
@@ -188,7 +188,7 @@
 | 23 | Страхов А.А. |  | |  | |  | |  | |  | |  | | 
 | 24 | Титов С.М. | 9 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 7 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/f.png" width="20"> | 
 | 25 | Федоров М.В. |  | |  | |  | |  | |  | |  | | 
-| 26 | Филатьев В.Е. | 36 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 33 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 26 | Филатьев В.Е. | 36 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 33 | <img src="img/s.png" width="20"> | 29 | 29 | <img src="img/s.png" width="20"> | 
 | 27 | Филатьева Е.А. | 54 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 30 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 28 | Цацын А.С. | 29 | <img src="img/s.png" width="20"> | 19 | 19 | <img src="img/s.png" width="20"> | 20 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 29 | Чернова Н.А. |  | |  | |  | |  | |  | |  | | 
@@ -214,7 +214,7 @@
 | 14 | Сарафанов М.С. | 62 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 37 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 15 | Соцков А.А. | 5 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 8 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
 | 16 | Тышкевич А.Р. | 13 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 16 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
-| 17 | Черных А.А. | 15 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 35 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 17 | Черных А.А. | 15 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 35 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 18 | Эрсоз Б.Э. |  | |  | |  | |  | |  | |  | | 
 
 
@@ -241,6 +241,6 @@
 | 17 | Скотин А.С. |  | |  | |  | |  | |  | |  | | 
 | 18 | Трубин А.С. |  | |  | |  | |  | |  | |  | | 
 | 19 | Фомин В.М. |  | |  | |  | |  | |  | |  | | 
-| 20 | Шуравина О.Н. | 16 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 38 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 20 | Шуравина О.Н. | 16 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 38 | <img src="img/s.png" width="20"> | 32 | 32 | <img src="img/s.png" width="20"> | 
 
 
