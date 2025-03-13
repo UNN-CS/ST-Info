@@ -186,7 +186,7 @@
 | 21 | Пикарычев И.Д. |  | |  | |  | |  | |  | |  | | 
 | 22 | Сорокин А.А. | 24 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 4 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 23 | Страхов А.А. |  | |  | |  | |  | |  | |  | | 
-| 24 | Титов С.М. | 9 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 7 | <img src="img/s.png" width="20"> | 19 | 19 | <img src="img/f.png" width="20"> | 
+| 24 | Титов С.М. | 9 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 7 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 25 | Федоров М.В. |  | |  | |  | |  | |  | |  | | 
 | 26 | Филатьев В.Е. | 36 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 33 | <img src="img/s.png" width="20"> | 29 | 29 | <img src="img/s.png" width="20"> | 
 | 27 | Филатьева Е.А. | 54 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 30 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
