@@ -126,7 +126,7 @@
 
 ### UNN-CS/ST-1
 
-|№   |  ФИО   | Группа |ST-1(pr) | ST-1(check) | ST-1(tests) | ST-1(pass) | ST-1(ИТОГ) | 
+|№   |  ФИО   | Группа |Номер PR | Результат PR | Всего тестов | Пройдено | ИТОГ | 
 | -- | ------ | ------ |--- | --- | --- | --- | --- | 
 | 1 | Белов А.А. | 3822Б1ПР1 | 50 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 21 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
 | 2 | Васильев С.А. | 3822Б1ПР1 | 53 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 50 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/f.png" width="20"> | 
@@ -226,7 +226,7 @@
 | 96 | Шуравина О.Н. | 3822Б1ПР4 | 16 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 38 | <img src="img/s.png" width="20"> | 32 | 32 | <img src="img/s.png" width="20"> | 
 ### UNN-CS/ST-2
 
-|№   |  ФИО   | Группа |ST-2(pr) | ST-2(check) | ST-2(tests) | ST-2(pass) | ST-2(ИТОГ) | 
+|№   |  ФИО   | Группа |Номер PR | Результат PR | Всего тестов | Пройдено | ИТОГ | 
 | -- | ------ | ------ |--- | --- | --- | --- | --- | 
 | 1 | Белов А.А. | 3822Б1ПР1 | 50 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 21 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
 | 2 | Васильев С.А. | 3822Б1ПР1 | 53 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 50 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/f.png" width="20"> | 
