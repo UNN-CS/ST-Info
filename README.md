@@ -816,7 +816,7 @@
 | 60 | Вяльдин Н.М. | 3822Б1ПР3 |  | |  | |  | | 
 | 61 | Громов А.С. | 3822Б1ПР3 | 30 | <img src="img/s.png" width="20"> | 19 | 19 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 62 | Дурыничев Д.А. | 3822Б1ПР3 | 43 | <img src="img/s.png" width="20"> | 19 | 19 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 63 | Казунин Н.А. | 3822Б1ПР3 | 13 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 63 | Казунин Н.А. | 3822Б1ПР3 | 13 | <img src="img/s.png" width="20"> | 19 | 19 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 64 | Козел С.А. | 3822Б1ПР3 |  | |  | |  | | 
 | 65 | Коновалов С.А. | 3822Б1ПР3 |  | |  | |  | | 
 | 66 | Малышев А.А. | 3822Б1ПР3 |  | |  | |  | | 
