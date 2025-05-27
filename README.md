@@ -247,7 +247,7 @@
 ## Проверки
 
 
-Дата/время проверки: 2025-05-27 20:25
+Дата/время проверки: 2025-05-27 21:25
 
 
 ### UNN-CS/ST-1
@@ -789,7 +789,7 @@
 | 33 | Головкин М.Ю. | 3822Б1ПР2 | 66 | <img src="img/s.png" width="20"> |  | | <img src="img/s.png" width="20"> |  | | 
 | 34 | Гусев Н.С. | 3822Б1ПР2 | 1 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 35 | Ермолаев В.А. | 3822Б1ПР2 | 5 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 36 | Зайцев Д.Я. | 3822Б1ПР2 | 70 | <img src="img/s.png" width="20"> | 20 | 20 |  | | <img src="img/s.png" width="20"> | 
+| 36 | Зайцев Д.Я. | 3822Б1ПР2 | 70 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 37 | Золотарева А.И. | 3822Б1ПР2 | 52 | <img src="img/s.png" width="20"> | 7 | 7 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 38 | Кавторев Д.К. | 3822Б1ПР2 | 67 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 39 | Калинин Д.А. | 3822Б1ПР2 | 68 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
