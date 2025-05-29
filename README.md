@@ -247,7 +247,7 @@
 ## Проверки
 
 
-Дата/время проверки: 2025-05-29 19:25
+Дата/время проверки: 2025-05-29 20:25
 
 
 ### UNN-CS/ST-1
@@ -477,7 +477,7 @@
 | 21 | Одинцов М.В. | 3822Б1ПР1 | 5 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 22 | Поликанов В.А. | 3822Б1ПР1 | 68 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 23 | Рамс С.Н. | 3822Б1ПР1 | 45 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
-| 24 | Садиков И.Ю. | 3822Б1ПР1 | 74 | <img src="img/f.png" width="20"> | 10 | 10 | <img src="img/f.png" width="20"> | 
+| 24 | Садиков И.Ю. | 3822Б1ПР1 | 74 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 25 | Сидорина П.А. | 3822Б1ПР1 | 42 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 26 | Сорочкин Д.О. | 3822Б1ПР1 | 67 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 27 | Тюрин М.Д. | 3822Б1ПР1 | 40 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
