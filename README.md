@@ -247,7 +247,7 @@
 ## Проверки
 
 
-Дата/время проверки: 2025-06-02 11:25
+Дата/время проверки: 2025-06-02 13:25
 
 
 ### UNN-CS/ST-1
@@ -289,7 +289,7 @@
 | 33 | Головкин М.Ю. | 3822Б1ПР2 | 72 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 34 | Гусев Н.С. | 3822Б1ПР2 | 23 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 35 | Ермолаев В.А. | 3822Б1ПР2 | 8 | <img src="img/s.png" width="20"> | 17 | 17 | <img src="img/s.png" width="20"> | 
-| 36 | Зайцев Д.Я. | 3822Б1ПР2 | 60 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
+| 36 | Зайцев Д.Я. | 3822Б1ПР2 | 83 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 37 | Золотарева А.И. | 3822Б1ПР2 | 32 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 38 | Кавторев Д.К. | 3822Б1ПР2 | 55 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 
 | 39 | Калинин Д.А. | 3822Б1ПР2 | 56 | <img src="img/s.png" width="20"> | 27 | 27 | <img src="img/s.png" width="20"> | 
@@ -347,7 +347,7 @@
 | 91 | Прохоров Н.Е. | 3822Б1ПР4 | 76 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 92 | Салаев В.О. | 3822Б1ПР4 | 63 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/s.png" width="20"> | 
 | 93 | Скотин А.С. | 3822Б1ПР4 |  | |  | |  | | 
-| 94 | Трубин А.С. | 3822Б1ПР4 | 73 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
+| 94 | Трубин А.С. | 3822Б1ПР4 | 84 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 95 | Фомин В.М. | 3822Б1ПР4 | 81 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 96 | Шуравина О.Н. | 3822Б1ПР4 | 16 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 
 ### UNN-CS/ST-2
@@ -386,7 +386,7 @@
 | 30 | Варфоломеев Г.В. | 3822Б1ПР2 | 61 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 31 | Виняйкина Е.А. | 3822Б1ПР2 |  | |  | |  | | 
 | 32 | Владимирова Ю.А. | 3822Б1ПР2 | 51 | <img src="img/s.png" width="20"> | 27 | 27 | <img src="img/s.png" width="20"> | 
-| 33 | Головкин М.Ю. | 3822Б1ПР2 | 73 | <img src="img/s.png" width="20"> | 29 | 29 | <img src="img/s.png" width="20"> | 
+| 33 | Головкин М.Ю. | 3822Б1ПР2 |  | | 29 | 29 | <img src="img/f.png" width="20"> | 
 | 34 | Гусев Н.С. | 3822Б1ПР2 | 45 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 35 | Ермолаев В.А. | 3822Б1ПР2 | 6 | <img src="img/s.png" width="20"> | 32 | 32 | <img src="img/s.png" width="20"> | 
 | 36 | Зайцев Д.Я. | 3822Б1ПР2 | 23 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
@@ -401,7 +401,7 @@
 | 45 | Махов М.А. | 3822Б1ПР2 | 63 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 46 | Мурадов М.М. | 3822Б1ПР2 | 69 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 47 | Мухина М.О. | 3822Б1ПР2 | 29 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
-| 48 | Наумов Б.А. | 3822Б1ПР2 | 60 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/f.png" width="20"> | 
+| 48 | Наумов Б.А. | 3822Б1ПР2 | 88 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/f.png" width="20"> | 
 | 49 | Петров А.А. | 3822Б1ПР2 | 78 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 50 | Пикарычев И.Д. | 3822Б1ПР2 |  | |  | |  | | 
 | 51 | Сорокин А.А. | 3822Б1ПР2 | 4 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
@@ -447,7 +447,7 @@
 | 91 | Прохоров Н.Е. | 3822Б1ПР4 | 83 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 92 | Салаев В.О. | 3822Б1ПР4 | 19 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 93 | Скотин А.С. | 3822Б1ПР4 |  | |  | |  | | 
-| 94 | Трубин А.С. | 3822Б1ПР4 | 74 | <img src="img/f.png" width="20"> | 21 | 21 | <img src="img/f.png" width="20"> | 
+| 94 | Трубин А.С. | 3822Б1ПР4 | 89 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | 
 | 95 | Фомин В.М. | 3822Б1ПР4 | 86 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 96 | Шуравина О.Н. | 3822Б1ПР4 | 38 | <img src="img/s.png" width="20"> | 32 | 32 | <img src="img/s.png" width="20"> | 
 ### UNN-CS/ST-3
@@ -589,7 +589,7 @@
 | 33 | Головкин М.Ю. | 3822Б1ПР2 | 47 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 34 | Гусев Н.С. | 3822Б1ПР2 | 14 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 
 | 35 | Ермолаев В.А. | 3822Б1ПР2 | 2 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
-| 36 | Зайцев Д.Я. | 3822Б1ПР2 | 42 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
+| 36 | Зайцев Д.Я. | 3822Б1ПР2 | 80 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 37 | Золотарева А.И. | 3822Б1ПР2 | 66 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 38 | Кавторев Д.К. | 3822Б1ПР2 | 48 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 39 | Калинин Д.А. | 3822Б1ПР2 | 49 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
@@ -678,7 +678,7 @@
 | 22 | Поликанов В.А. | 3822Б1ПР1 | 72 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 23 | Рамс С.Н. | 3822Б1ПР1 | 30 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 24 | Садиков И.Ю. | 3822Б1ПР1 | 65 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
-| 25 | Сидорина П.А. | 3822Б1ПР1 | 24 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 
+| 25 | Сидорина П.А. | 3822Б1ПР1 | 78 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 
 | 26 | Сорочкин Д.О. | 3822Б1ПР1 | 50 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 27 | Тюрин М.Д. | 3822Б1ПР1 | 35 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | 
 | 28 | Хасаньянов К.В. | 3822Б1ПР1 | 25 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | 
@@ -747,8 +747,8 @@
 | 91 | Прохоров Н.Е. | 3822Б1ПР4 | 68 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 92 | Салаев В.О. | 3822Б1ПР4 | 16 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 93 | Скотин А.С. | 3822Б1ПР4 |  | |  | |  | | 
-| 94 | Трубин А.С. | 3822Б1ПР4 | 7 | <img src="img/f.png" width="20"> | 16 | 16 | <img src="img/f.png" width="20"> | 
-| 95 | Фомин В.М. | 3822Б1ПР4 | 73 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
+| 94 | Трубин А.С. | 3822Б1ПР4 | 79 | <img src="img/f.png" width="20"> | 16 | 16 | <img src="img/f.png" width="20"> | 
+| 95 | Фомин В.М. | 3822Б1ПР4 | 77 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 96 | Шуравина О.Н. | 3822Б1ПР4 | 10 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | 
 ### UNN-CS/ST-6
 
@@ -778,7 +778,7 @@
 | 22 | Поликанов В.А. | 3822Б1ПР1 | 76 | <img src="img/s.png" width="20"> | 9 | 9 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 23 | Рамс С.Н. | 3822Б1ПР1 | 37 | <img src="img/s.png" width="20"> | 1 | 1 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 24 | Садиков И.Ю. | 3822Б1ПР1 | 63 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 25 | Сидорина П.А. | 3822Б1ПР1 | 44 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 25 | Сидорина П.А. | 3822Б1ПР1 | 83 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 26 | Сорочкин Д.О. | 3822Б1ПР1 | 48 | <img src="img/s.png" width="20"> | 17 | 17 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 27 | Тюрин М.Д. | 3822Б1ПР1 | 40 | <img src="img/s.png" width="20"> | 29 | 29 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 28 | Хасаньянов К.В. | 3822Б1ПР1 | 8 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -789,7 +789,7 @@
 | 33 | Головкин М.Ю. | 3822Б1ПР2 | 66 | <img src="img/s.png" width="20"> |  | | <img src="img/s.png" width="20"> |  | | 
 | 34 | Гусев Н.С. | 3822Б1ПР2 | 1 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 35 | Ермолаев В.А. | 3822Б1ПР2 | 5 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 36 | Зайцев Д.Я. | 3822Б1ПР2 | 70 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 36 | Зайцев Д.Я. | 3822Б1ПР2 | 82 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 37 | Золотарева А.И. | 3822Б1ПР2 | 52 | <img src="img/s.png" width="20"> | 7 | 7 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 38 | Кавторев Д.К. | 3822Б1ПР2 | 67 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 39 | Калинин Д.А. | 3822Б1ПР2 | 68 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -801,7 +801,7 @@
 | 45 | Махов М.А. | 3822Б1ПР2 |  | |  | |  | |  | | 
 | 46 | Мурадов М.М. | 3822Б1ПР2 | 27 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 47 | Мухина М.О. | 3822Б1ПР2 | 14 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 48 | Наумов Б.А. | 3822Б1ПР2 | 71 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 48 | Наумов Б.А. | 3822Б1ПР2 | 80 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 49 | Петров А.А. | 3822Б1ПР2 | 72 | <img src="img/s.png" width="20"> | 14 | 14 |  | | <img src="img/s.png" width="20"> | 
 | 50 | Пикарычев И.Д. | 3822Б1ПР2 |  | |  | |  | |  | | 
 | 51 | Сорокин А.А. | 3822Б1ПР2 | 24 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -848,7 +848,7 @@
 | 92 | Салаев В.О. | 3822Б1ПР4 | 11 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 93 | Скотин А.С. | 3822Б1ПР4 |  | |  | |  | |  | | 
 | 94 | Трубин А.С. | 3822Б1ПР4 | 20 | <img src="img/s.png" width="20"> | 39 | 39 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 95 | Фомин В.М. | 3822Б1ПР4 | 73 | <img src="img/s.png" width="20"> | 26 | 26 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 95 | Фомин В.М. | 3822Б1ПР4 | 81 | <img src="img/s.png" width="20"> | 26 | 26 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 96 | Шуравина О.Н. | 3822Б1ПР4 | 4 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 ### UNN-CS/ST-7
 
@@ -964,7 +964,7 @@
 | 8 | Ефимов А.А. | 3822Б1ПР1 |  | |  | |  | | 
 | 9 | Зайцев А.Д. | 3822Б1ПР1 | 52 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 10 | Калякина А.Д. | 3822Б1ПР1 | 42 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 11 | Капустин И.А. | 3822Б1ПР1 | 51 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 11 | Капустин И.А. | 3822Б1ПР1 | 78 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 12 | Константинов И.Г. | 3822Б1ПР1 | 28 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 13 | Кораблев В.М. | 3822Б1ПР1 | 11 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 14 | Корнеева Е.М. | 3822Б1ПР1 | 27 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -972,7 +972,7 @@
 | 16 | Крылов М.Г. | 3822Б1ПР1 | 43 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 17 | Милованкин М.С. | 3822Б1ПР1 | 73 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 18 | Моисеев А.В. | 3822Б1ПР1 | 31 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 19 | Морозов Е.А. | 3822Б1ПР1 | 40 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 19 | Морозов Е.А. | 3822Б1ПР1 | 79 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 20 | Николаев Р.А. | 3822Б1ПР1 | 9 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 21 | Одинцов М.В. | 3822Б1ПР1 | 16 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 22 | Поликанов В.А. | 3822Б1ПР1 | 70 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1007,7 +1007,7 @@
 | 51 | Сорокин А.А. | 3822Б1ПР2 | 14 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 52 | Страхов А.А. | 3822Б1ПР2 | 72 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 53 | Титов С.М. | 3822Б1ПР2 | 13 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 54 | Федоров М.В. | 3822Б1ПР2 |  | |  | |  | | 
+| 54 | Федоров М.В. | 3822Б1ПР2 | 76 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 55 | Филатьев В.Е. | 3822Б1ПР2 | 54 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 56 | Филатьева Е.А. | 3822Б1ПР2 | 55 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 57 | Цацын А.С. | 3822Б1ПР2 | 2 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -1107,7 +1107,7 @@
 | 51 | Сорокин А.А. | 3822Б1ПР2 | 28 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 52 | Страхов А.А. | 3822Б1ПР2 | 61 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 53 | Титов С.М. | 3822Б1ПР2 | 25 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 54 | Федоров М.В. | 3822Б1ПР2 |  | |  | |  | | 
+| 54 | Федоров М.В. | 3822Б1ПР2 | 73 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 55 | Филатьев В.Е. | 3822Б1ПР2 | 3 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 56 | Филатьева Е.А. | 3822Б1ПР2 | 4 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 57 | Цацын А.С. | 3822Б1ПР2 | 21 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
