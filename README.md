@@ -145,7 +145,7 @@
 
 ## Проверки
 
-Дата/время проверки: 15-03-2026 (12:46)
+Дата/время проверки: 15-03-2026 (12:49)
 
 ### ST-0
 
@@ -287,7 +287,7 @@
 | 9 | Куликов Д.А. | 3823Б1ПР1 | 71 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 10 | Лазарева А.А. | 3823Б1ПР1 | 66 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | 
 | 11 | Лиханов М.Д. | 3823Б1ПР1 | 109 | <img src="img/f.png" width="20"> | 9 | 9 | <img src="img/f.png" width="20"> | 
-| 12 | Маковеева С.И. | 3823Б1ПР1 | 111 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 12 | Маковеева С.И. | 3823Б1ПР1 | 111 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 13 | Мельник И.В. | 3823Б1ПР1 | 35 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 14 | Морозов Н.А. | 3823Б1ПР1 | 78 | <img src="img/s.png" width="20"> | 14 | 14 | <img src="img/s.png" width="20"> | 
 | 15 | Налитов Д.О. | 3823Б1ПР1 | 106 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/s.png" width="20"> | 
