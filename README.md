@@ -310,7 +310,7 @@
 
 ## Проверки
 
-Дата/время проверки: 10-05-2026 (19:16)
+Дата/время проверки: 14-05-2026 (19:35)
 
 ### ST-1
 
@@ -436,7 +436,7 @@
 | 117 | Мухаммадхон И.А. | 3823Б1ПР5 |  | |  | | 
 | 118 | Копылов Д.А. | 3823Б1ПР5 | 97 | <img src="img/s.png" width="20"> | 14 | 14 | <img src="img/s.png" width="20"> | 
 | 119 | Мурадов М.М. | 3823Б1ПР5 | 83 | <img src="img/s.png" width="20"> | 14 | 14 | <img src="img/s.png" width="20"> | 
-| 120 | Петерсон Р.Д. | 3823Б1ПР5 | 121 | <img src="img/s.png" width="20"> | 2 | 2 | <img src="img/f.png" width="20"> | 
+| 120 | Петерсон Р.Д. | 3823Б1ПР5 | 122 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/s.png" width="20"> | 
 ### ST-2
 
 
@@ -551,7 +551,7 @@
 | 107 | Красавин А.П. | 3823Б1ПР5 |  | |  | | 
 | 108 | Парамонов Л.И. | 3823Б1ПР5 | 108 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 109 | Вербицки В. | 3823Б1ПР5 | 70 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
-| 110 | Лучников Е.А. | 3823Б1ПР5 |  | |  | | 
+| 110 | Лучников Е.А. | 3823Б1ПР5 | 113 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 111 | Бузулукский Д.С. | 3823Б1ПР5 | 69 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 112 | Иманов С.Ш. | 3823Б1ПР5 | 111 | <img src="img/s.png" width="20"> | 27 | 27 | <img src="img/s.png" width="20"> | 
 | 113 | Исхаков Д.А. | 3823Б1ПР5 | 78 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
@@ -561,7 +561,7 @@
 | 117 | Мухаммадхон И.А. | 3823Б1ПР5 | 79 | <img src="img/s.png" width="20"> | 26 | 26 | <img src="img/s.png" width="20"> | 
 | 118 | Копылов Д.А. | 3823Б1ПР5 | 71 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 | 119 | Мурадов М.М. | 3823Б1ПР5 | 22 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
-| 120 | Петерсон Р.Д. | 3823Б1ПР5 | 112 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 120 | Петерсон Р.Д. | 3823Б1ПР5 | 116 | <img src="img/s.png" width="20"> | 20 | 20 | <img src="img/s.png" width="20"> | 
 ### ST-3
 
 
@@ -676,7 +676,7 @@
 | 107 | Красавин А.П. | 3823Б1ПР5 |  | |  | | 
 | 108 | Парамонов Л.И. | 3823Б1ПР5 | 81 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | 
 | 109 | Вербицки В. | 3823Б1ПР5 |  | |  | | 
-| 110 | Лучников Е.А. | 3823Б1ПР5 |  | |  | | 
+| 110 | Лучников Е.А. | 3823Б1ПР5 | 92 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 111 | Бузулукский Д.С. | 3823Б1ПР5 | 69 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 112 | Иманов С.Ш. | 3823Б1ПР5 | 85 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 113 | Исхаков Д.А. | 3823Б1ПР5 | 66 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | 
@@ -686,7 +686,7 @@
 | 117 | Мухаммадхон И.А. | 3823Б1ПР5 |  | |  | | 
 | 118 | Копылов Д.А. | 3823Б1ПР5 | 55 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 119 | Мурадов М.М. | 3823Б1ПР5 | 9 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 
-| 120 | Петерсон Р.Д. | 3823Б1ПР5 | 89 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 120 | Петерсон Р.Д. | 3823Б1ПР5 | 93 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | 
 ### ST-4
 
 
@@ -705,7 +705,7 @@
 | 11 | Лиханов М.Д. | 3823Б1ПР1 | 66 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
 | 12 | Маковеева С.И. | 3823Б1ПР1 | 85 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 
 | 13 | Мельник И.В. | 3823Б1ПР1 | 39 | <img src="img/s.png" width="20"> | 42 | 42 | <img src="img/s.png" width="20"> | 
-| 14 | Морозов Н.А. | 3823Б1ПР1 | 36 | <img src="img/f.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 14 | Морозов Н.А. | 3823Б1ПР1 | 99 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 15 | Налитов Д.О. | 3823Б1ПР1 | 40 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 16 | Отческов С.А. | 3823Б1ПР1 | 7 | <img src="img/s.png" width="20"> | 27 | 27 | <img src="img/s.png" width="20"> | 
 | 17 | Перепелкин Я.М. | 3823Б1ПР1 | 26 | <img src="img/s.png" width="20"> | 36 | 36 | <img src="img/s.png" width="20"> | 
@@ -725,7 +725,7 @@
 | 31 | Батушин И.А. | 3823Б1ПР2 | 70 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | 
 | 32 | Белов Е.А. | 3823Б1ПР2 |  | |  | | 
 | 33 | Васильев М.П. | 3823Б1ПР2 | 18 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | 
-| 34 | Видерман А.Г. | 3823Б1ПР2 | 86 | <img src="img/f.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 34 | Видерман А.Г. | 3823Б1ПР2 | 86 | <img src="img/s.png" width="20"> | 29 | 29 | <img src="img/s.png" width="20"> | 
 | 35 | Власова А.С. | 3823Б1ПР2 | 83 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | 
 | 36 | Зорин Д.А. | 3823Б1ПР2 | 62 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | 
 | 37 | Зюзин Н.М. | 3823Б1ПР2 | 96 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | 
@@ -734,15 +734,15 @@
 | 40 | Климов М.Д. | 3823Б1ПР2 |  | |  | | 
 | 41 | Колотухин А.Д. | 3823Б1ПР2 | 44 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 42 | Котельникова А.В. | 3823Б1ПР2 | 13 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
-| 43 | Овчинников М.Е. | 3823Б1ПР2 | 91 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
-| 44 | Олесницкий В.Т. | 3823Б1ПР2 | 93 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 43 | Овчинников М.Е. | 3823Б1ПР2 | 91 | <img src="img/s.png" width="20"> | 28 | 28 | <img src="img/s.png" width="20"> | 
+| 44 | Олесницкий В.Т. | 3823Б1ПР2 | 101 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | 
 | 45 | Постернак А.Н. | 3823Б1ПР2 | 23 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
 | 46 | Романов Р.А. | 3823Б1ПР2 |  | |  | | 
 | 47 | Синев А.А. | 3823Б1ПР2 | 61 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 
 | 48 | Тимофеев Н.С. | 3823Б1ПР2 | 33 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
 | 49 | Цыплаков К.А. | 3823Б1ПР2 | 95 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
 | 50 | Шакирова Е.А. | 3823Б1ПР2 |  | |  | | 
-| 51 | Юшкова П.А. | 3823Б1ПР2 |  | |  | | 
+| 51 | Юшкова П.А. | 3823Б1ПР2 | 100 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 
 | 52 | Якимов И.В. | 3823Б1ПР2 | 48 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 
 | 53 | Афанасьев А.Е. | 3823Б1ПР3 | 57 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | 
 | 54 | Бальчунайте З.Д. | 3823Б1ПР3 | 75 | <img src="img/s.png" width="20"> | 30 | 30 | <img src="img/s.png" width="20"> | 
@@ -754,7 +754,7 @@
 | 60 | Дорогин В.А. | 3823Б1ПР3 | 67 | <img src="img/s.png" width="20"> | 24 | 24 | <img src="img/s.png" width="20"> | 
 | 61 | Ермаков А.В. | 3823Б1ПР3 | 27 | <img src="img/s.png" width="20"> | 38 | 38 | <img src="img/s.png" width="20"> | 
 | 62 | Ефимов А.А. | 3823Б1ПР3 |  | |  | | 
-| 63 | Камалягин А.А. | 3823Б1ПР3 | 81 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 63 | Камалягин А.А. | 3823Б1ПР3 | 81 | <img src="img/s.png" width="20"> | 22 | 22 | <img src="img/s.png" width="20"> | 
 | 64 | Кондрашин В.В. | 3823Б1ПР3 |  | |  | | 
 | 65 | Коновалов С.А. | 3823Б1ПР3 |  | |  | | 
 | 66 | Королёв К.Н. | 3823Б1ПР3 | 45 | <img src="img/s.png" width="20"> | 26 | 26 | <img src="img/s.png" width="20"> | 
@@ -767,7 +767,7 @@
 | 73 | Сметанин Д.В. | 3823Б1ПР3 | 14 | <img src="img/s.png" width="20"> | 28 | 28 | <img src="img/s.png" width="20"> | 
 | 74 | Точилин Е.М. | 3823Б1ПР3 |  | |  | | 
 | 75 | Черемхин А.А. | 3823Б1ПР3 | 55 | <img src="img/s.png" width="20"> | 31 | 31 | <img src="img/s.png" width="20"> | 
-| 76 | Шеметов Д.О. | 3823Б1ПР3 | 89 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 76 | Шеметов Д.О. | 3823Б1ПР3 | 98 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
 | 77 | Шкенёв И.А. | 3823Б1ПР3 | 20 | <img src="img/s.png" width="20"> | 38 | 38 | <img src="img/s.png" width="20"> | 
 | 78 | Артюшкина Ю.Д. | 3823Б1ПР4 | 59 | <img src="img/s.png" width="20"> | 41 | 41 | <img src="img/s.png" width="20"> | 
 | 79 | Баранов А.А. | 3823Б1ПР4 | 15 | <img src="img/s.png" width="20"> | 23 | 23 | <img src="img/s.png" width="20"> | 
@@ -801,7 +801,7 @@
 | 107 | Красавин А.П. | 3823Б1ПР5 |  | |  | | 
 | 108 | Парамонов Л.И. | 3823Б1ПР5 | 76 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 109 | Вербицки В. | 3823Б1ПР5 |  | |  | | 
-| 110 | Лучников Е.А. | 3823Б1ПР5 |  | |  | | 
+| 110 | Лучников Е.А. | 3823Б1ПР5 | 97 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 111 | Бузулукский Д.С. | 3823Б1ПР5 | 53 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 112 | Иманов С.Ш. | 3823Б1ПР5 | 84 | <img src="img/s.png" width="20"> | 25 | 25 | <img src="img/s.png" width="20"> | 
 | 113 | Исхаков Д.А. | 3823Б1ПР5 | 51 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
@@ -809,7 +809,7 @@
 | 115 | Синев Т.В. | 3823Б1ПР5 | 35 | <img src="img/s.png" width="20"> | 28 | 28 | <img src="img/s.png" width="20"> | 
 | 116 | Солонин В.В. | 3823Б1ПР5 |  | |  | | 
 | 117 | Мухаммадхон И.А. | 3823Б1ПР5 |  | |  | | 
-| 118 | Копылов Д.А. | 3823Б1ПР5 | 49 | <img src="img/f.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
+| 118 | Копылов Д.А. | 3823Б1ПР5 | 49 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
 | 119 | Мурадов М.М. | 3823Б1ПР5 | 9 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 | 120 | Петерсон Р.Д. | 3823Б1ПР5 | 94 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | 
 ### ST-5
@@ -822,7 +822,7 @@
 | 3 | Голованов Д.А. | 3823Б1ПР1 | 15 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 4 | Журин И.Э. | 3823Б1ПР1 | 60 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 5 | Иванова П.С. | 3823Б1ПР1 | 31 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
-| 6 | Ильин А.А. | 3823Б1ПР1 |  | |  | | 
+| 6 | Ильин А.А. | 3823Б1ПР1 | 84 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 7 | Кондрашова В.А. | 3823Б1ПР1 | 45 | <img src="img/s.png" width="20"> | 14 | 14 | <img src="img/s.png" width="20"> | 
 | 8 | Крапивин А.С. | 3823Б1ПР1 |  | |  | | 
 | 9 | Куликов Д.А. | 3823Б1ПР1 |  | |  | | 
@@ -853,7 +853,7 @@
 | 34 | Видерман А.Г. | 3823Б1ПР2 | 71 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 35 | Власова А.С. | 3823Б1ПР2 | 72 | <img src="img/s.png" width="20"> | 13 | 13 | <img src="img/s.png" width="20"> | 
 | 36 | Зорин Д.А. | 3823Б1ПР2 | 24 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
-| 37 | Зюзин Н.М. | 3823Б1ПР2 |  | |  | | 
+| 37 | Зюзин Н.М. | 3823Б1ПР2 | 85 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 38 | Зязева С.А. | 3823Б1ПР2 | 58 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
 | 39 | Клименко В.С. | 3823Б1ПР2 | 2 | <img src="img/s.png" width="20"> | 17 | 17 | <img src="img/s.png" width="20"> | 
 | 40 | Климов М.Д. | 3823Б1ПР2 |  | |  | | 
@@ -867,13 +867,13 @@
 | 48 | Тимофеев Н.С. | 3823Б1ПР2 | 10 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 49 | Цыплаков К.А. | 3823Б1ПР2 | 79 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 50 | Шакирова Е.А. | 3823Б1ПР2 |  | |  | | 
-| 51 | Юшкова П.А. | 3823Б1ПР2 |  | |  | | 
+| 51 | Юшкова П.А. | 3823Б1ПР2 | 86 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | 
 | 52 | Якимов И.В. | 3823Б1ПР2 | 51 | <img src="img/s.png" width="20"> | 0 | 0 | <img src="img/f.png" width="20"> | 
 | 53 | Афанасьев А.Е. | 3823Б1ПР3 | 56 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 54 | Бальчунайте З.Д. | 3823Б1ПР3 | 57 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 55 | Батьков Ф.В. | 3823Б1ПР3 | 18 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
 | 56 | Борунов В.А. | 3823Б1ПР3 | 53 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
-| 57 | Борцова А.С. | 3823Б1ПР3 |  | |  | | 
+| 57 | Борцова А.С. | 3823Б1ПР3 | 80 | <img src="img/f.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
 | 58 | Виняйкина Е.А. | 3823Б1ПР3 |  | |  | | 
 | 59 | Дергачёв А.С. | 3823Б1ПР3 | 43 | <img src="img/s.png" width="20"> | 14 | 14 | <img src="img/s.png" width="20"> | 
 | 60 | Дорогин В.А. | 3823Б1ПР3 | 19 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | 
@@ -896,7 +896,7 @@
 | 77 | Шкенёв И.А. | 3823Б1ПР3 | 78 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 78 | Артюшкина Ю.Д. | 3823Б1ПР4 | 32 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | 
 | 79 | Баранов А.А. | 3823Б1ПР4 | 9 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | 
-| 80 | Вдовин А.Н. | 3823Б1ПР4 | 63 | <img src="img/s.png" width="20"> |  | | <img src="img/f.png" width="20"> | 
+| 80 | Вдовин А.Н. | 3823Б1ПР4 | 87 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | 
 | 81 | Вяльдин Н.М. | 3823Б1ПР4 |  | |  | | 
 | 82 | Горячев В.Р. | 3823Б1ПР4 |  | |  | | 
 | 83 | Демидович М.А. | 3823Б1ПР4 |  | |  | | 
@@ -926,7 +926,7 @@
 | 107 | Красавин А.П. | 3823Б1ПР5 |  | |  | | 
 | 108 | Парамонов Л.И. | 3823Б1ПР5 | 59 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 109 | Вербицки В. | 3823Б1ПР5 |  | |  | | 
-| 110 | Лучников Е.А. | 3823Б1ПР5 |  | |  | | 
+| 110 | Лучников Е.А. | 3823Б1ПР5 | 83 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 111 | Бузулукский Д.С. | 3823Б1ПР5 | 49 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | 
 | 112 | Иманов С.Ш. | 3823Б1ПР5 | 70 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
 | 113 | Исхаков Д.А. | 3823Б1ПР5 | 44 | <img src="img/s.png" width="20"> | 11 | 11 | <img src="img/s.png" width="20"> | 
